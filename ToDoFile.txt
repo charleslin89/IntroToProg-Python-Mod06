@@ -1,0 +1,5 @@
+Clean,High
+Paint,Low
+Dance,High
+Sing,Low
+Rest,High
